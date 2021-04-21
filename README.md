@@ -1,3 +1,9 @@
+# Setup
+
+- git init
+- git remote add origin git@github.com:OliverEsoterik/portfolio.git
+- npm run deploy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
