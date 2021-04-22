@@ -6,7 +6,8 @@ export default function Navbar() {
   return (
     <div style={{
         position: 'absolute', left: '50%', top: '10%',
-        transform: 'translate(-50%, -50%)'
+        transform: 'translate(-50%, -50%)',
+        fontFamily: 'Playfair Display'
     }}>
  
       <Button>Portfolio</Button>
