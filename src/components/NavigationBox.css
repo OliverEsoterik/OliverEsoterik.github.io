@@ -1,23 +1,12 @@
-.NavigationBox{
-    color: red;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 12%;
+@keyframes animate__animated {}
+
+.animate__animated {
+    animation-duration: 1.5s; 
+    margin-top: 16%;
+    margin-left: 5%; 
+    margin-right: 55%;
+    font-size: 200%;
     font-family: 'Playfair Display', serif;
-    width: 25%;
-    height: 150px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 90px; 
-}
-
-.Image{
-    margin-top: 12%;
-}
-
-.center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    line-break: normal;
+    position: absolute;
 }

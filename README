@@ -3,3 +3,6 @@ Deployment
 
 - npm run deploy
 
+TODO:
+
+- implement router for Navigation Bar as in https://reactrouter.com/native/example/Basic

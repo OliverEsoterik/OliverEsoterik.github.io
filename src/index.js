@@ -4,13 +4,15 @@ import './index.css';
 import App from './App';
 import Navbar from './components/Navbar';
 import NavigationBox from './components/NavigationBox';
+import Bg from './components/Bg';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <Navbar />
-    <NavigationBox></NavigationBox>
+    <Bg />
+    <NavigationBox />
   </React.StrictMode>,
   document.getElementById('root')
 );
