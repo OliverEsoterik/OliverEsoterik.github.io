@@ -27,7 +27,8 @@ import { makeStyles } from '@material-ui/core/styles';
 
   return (
     <div class="animate__animated animate__fadeInLeft">
-          Solutions Architecture {bull} Product Development {bull} Infrastructure {bull} Hyperledger {bull} Business Design {bull} Growth Engineering
+      We help our clients to grow their Spotify Audience and Fanbase  
+          {/* Solutions Architecture {bull} Product Development {bull} Infrastructure {bull} Hyperledger Fabric {bull} Business Design {bull} Growth Engineering */}
     </div>
   );
 }

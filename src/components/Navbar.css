@@ -1,9 +1,14 @@
 @keyframes an {}
 
 .an {
-    animation-duration: 2.5s; 
+    animation-duration: 2.8s; 
     margin-top: 5%;
     margin-left: 72%; 
-    font-size: 130%;
+    font-size: 230%;
     font-family: 'Playfair Display', serif;
+
+}
+
+.Info{
+    color: black;
 }

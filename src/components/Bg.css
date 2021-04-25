@@ -1,6 +1,14 @@
-.skill{
+.content{
+    animation-duration: 2.5s; 
     margin-top: 12%;
-    margin-left: 50%; 
-    margin-right: 35%;
+    margin-left: 55%; 
     position: absolute;
 }
+
+.Img{
+    background-image: url(../components/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+  }
