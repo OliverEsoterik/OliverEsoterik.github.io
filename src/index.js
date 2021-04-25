@@ -6,10 +6,12 @@ import Navbar from './components/Navbar';
 import NavigationBox from './components/NavigationBox';
 import Bg from './components/Bg';
 import reportWebVitals from './reportWebVitals';
+{/* <body style="background-image: url(bm.jpg); background-size: cover; height: 100%; opacity: 80%;"  > */}
+
 
 ReactDOM.render(
   <React.StrictMode>
- 
+
     <Navbar />
 
     <NavigationBox />
