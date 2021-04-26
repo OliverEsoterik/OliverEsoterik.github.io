@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import logo from "./bm.jpg";
+// import logo from "./bm.jpg";
 
-import "./Bg.css";
+// import "./Bg.css";
 
 export default class home extends Component {
   render() {

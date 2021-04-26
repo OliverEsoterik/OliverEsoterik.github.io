@@ -1,11 +1,10 @@
-import './App.css';
+import React from "react";
+// import background from "./components/bm.jpg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-      </header>
+    <div>
+      
     </div>
   );
 }
