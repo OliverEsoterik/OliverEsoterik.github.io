@@ -7,7 +7,6 @@ import Button from '@material-ui/core/Button';
 
 class Navbar extends React.Component {
 
-
   render() {
     return (
     <div class="an animate__fadeInDown">
