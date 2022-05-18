@@ -1,8 +1,9 @@
 .content{
     animation-duration: 2.5s; 
     margin-top: 12%;
-    margin-left: 55%; 
+    margin-left: absolute; 
     position: absolute;
+    color: white;
 }
 /* 
 .Img{

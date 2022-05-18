@@ -10,7 +10,8 @@ class Navbar extends React.Component {
   render() {
     return (
     <div class="an animate__fadeInDown">
-        <Button color="secondary" onClick={() => { downloadFile('whitepaper-growth.pdf') }}>Whitepaper</Button>
+        <Button color="secondary" onClick={() => { downloadFile('whitepaper-growth.pdf') }}>Research</Button>
+        <Button color="secondary" onClick={() => { downloadFile('whitepaper-growth.pdf') }}>Case Studies</Button>
         <Button color="secondary" onClick={() => { window.open('mailto:oliver.esoterik@gmail.com') }}>Contact</Button>          
     </div>
   );

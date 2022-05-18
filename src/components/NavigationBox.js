@@ -13,10 +13,13 @@ import { makeStyles } from '@material-ui/core/styles';
       opacity: '75%'
     },
     title: {
-      fontSize: 14,
+      fontSize: 12,
     },
     pos: {
       marginBottom: 12,
+      marginLeft: 'auto',
+      marginRight: 'auto',
+      position: 'relative'
     },
   });
 
@@ -27,8 +30,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
   return (
     <div class="animate__animated animate__fadeInLeft">
-      We help our clients grow their Spotify Audience and Followers  
-          {/* Solutions Architecture {bull} Product Development {bull} Infrastructure {bull} Hyperledger Fabric {bull} Business Design {bull} Growth Engineering */}
+      We are active investors and startup catalysts
     </div>
-  );
+);
 }

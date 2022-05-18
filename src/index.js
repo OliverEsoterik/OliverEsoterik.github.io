@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import Navbar from './components/Navbar';
 import NavigationBox from './components/NavigationBox';
-import Bg from './components/Bg';
+import Bg from './components/Bg'
 import reportWebVitals from './reportWebVitals';
 
 
@@ -15,6 +15,7 @@ ReactDOM.render(
     <Navbar />
 
     <NavigationBox />
+    <Bg />
     <App />
 
   </React.StrictMode>,

@@ -2,9 +2,9 @@
 
 .animate__animated {
     animation-duration: 1.5s; 
-    margin-top: 16%;
-    margin-left: 5%; 
-    margin-right: 55%;
+    margin-top: 12%;
+    margin-left: 25%; 
+    /* margin-right: 55%; */
     font-size: 270%;
     font-family: 'Playfair Display', serif;
     line-break: normal;
